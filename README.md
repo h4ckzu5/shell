@@ -1,2 +1,2 @@
 # shell
-Shell en formato php simple 
+web shell estilo terminal linux en formato php simple 
